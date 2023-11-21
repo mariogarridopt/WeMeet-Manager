@@ -1,0 +1,13 @@
+#login-form .divider:after,
+#login-form .divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+
+#login-form .submit-btn {
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+}
